@@ -1,6 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
-<<<<<<< HEAD
 #include <stdarg.h>
 #include <stdio.h>
 #include <unistd.h>
@@ -117,9 +116,3 @@ long int convert_size_number(long int num, int size);
 long int convert_size_unsgnd(unsigned long int num, int size);
 
 #endif /* MAIN_H */
-=======
-
-int _putchar(char c);
-
-#endif
->>>>>>> d504757dee5c911bc4939ad2789bb8f6cc1cd378
